@@ -19,6 +19,9 @@ uv add python-dotenv
 uv add langchain_community
 uv add langchain-ollama
 
+# in lesion - 5
+uv add langchain-mcp-adapters
+
 touch utils.py
 ```
 
